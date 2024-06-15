@@ -1,13 +1,13 @@
 {
-  "name": "educator-js-codespace-template",
+  "name": "my-portfolio",
   "version": "1.0.0",
-  "description": "Educator JS Codespace Template",
+  "description": "my-portfolio",
   "source": "src/index.html",
   "homepage": "https://github.com/microsoft/codespaces-teaching-template-js#readme",
   "scripts": {
-    "start": "parcel",
+    "start": "react-scripts start --template src/index.html",
     "build": "parcel build",
-    "build-gh": "parcel build --public-url 'https://{github-username}.github.io/{repo-name}'",
+    "build-gh": "parcel build --public-url 'https://{Liyu-Desta}.github.io/{portfolio}'",
     "predeploy": "npm run build-gh",
     "deploy": "gh-pages -d dist"
   },
@@ -22,7 +22,8 @@
   },
   "dependencies": {
     "react": "^18.2.0",
-    "react-dom": "^18.2.0"
+    "react-dom": "^18.2.0",
+    "react-scripts": "^5.0.1"
   },
   "devDependencies": {
     "eslint": "^8.23.0",
