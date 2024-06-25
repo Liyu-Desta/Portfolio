@@ -2,18 +2,18 @@
   "name": "my-portfolio",
   "version": "1.0.0",
   "description": "my-portfolio",
-  "source": "src/index.html",
-  "homepage": "https://github.com/microsoft/codespaces-teaching-template-js#readme",
+  "source": "index.html",
+  "homepage": "https://github.com/Liyu-Desta/Portfolio",
   "scripts": {
-    "start": "react-scripts start --template src/index.html",
-    "build": "parcel build",
-    "build-gh": "parcel build --public-url 'https://{Liyu-Desta}.github.io/{portfolio}'",
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "build-gh": "parcel build --public-url 'https://{Liyu-Desta}.github.io/{Portfolio}'",
     "predeploy": "npm run build-gh",
     "deploy": "gh-pages -d dist"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/microsoft/codespaces-teaching-template-js.git"
+    "url": "git+https://github.com/Liyu-Desta/Portfolio.git"
   },
   "author": "Microsoft",
   "license": "ISC",
@@ -34,7 +34,18 @@
     "gh-pages": "^5.0.0",
     "html-webpack-plugin": "^5.5.0",
     "parcel": "^2.7.0",
-    "prettier": "^2.7.1",
-    "process": "^0.11.10"
+    "prettier": "^2.7.1"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
   }
 }

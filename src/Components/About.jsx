@@ -31,12 +31,14 @@ const description =
  * passionate about, or enjoy,
  */
 const skillsList = [
-  "Web design",
-  "User experience",
+  "Website development",
   "Inclusive design",
-  "Focus group testing",
+  "Flutter development",
   "Mobile user interfaces",
-  "Graphic design",
+  "Figma design",
+  "Russian Language",
+  "Good Communication Skills",
+  "Data Structure and Algorithms"
 ];
 
 /**
@@ -45,7 +47,7 @@ const skillsList = [
  * about you on a professional level.
  */
 const detailOrQuote =
-  "I enjoy creating interactive design in Figma for my projects and I like creative way of thinking for building problem solving websites.";
+  "I enjoy creating interactive design in Figma for my projects and I like creative way of thinking for building problem solving websites.I have been working on these languages, Html, CSS, Bootstrap, Tailwind, Bulma, Javascript, Express.js, Node.js, Flutter, MongoDB and Rest APIs.";
 
 const About = () => {
   return (
