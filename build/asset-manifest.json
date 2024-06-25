@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Liyu-Desta/Portfolio/static/css/main.0771ef1b.css",
+    "main.js": "/Liyu-Desta/Portfolio/static/js/main.dbbe1966.js",
+    "static/media/design-desk.jpeg": "/Liyu-Desta/Portfolio/static/media/design-desk.c1996f349dc2330e1096.jpeg",
+    "static/media/motion-background.jpg": "/Liyu-Desta/Portfolio/static/media/motion-background.162019996b695dde089a.jpg",
+    "static/media/ppf.jpg": "/Liyu-Desta/Portfolio/static/media/ppf.841de96a28ef77701917.jpg",
+    "static/media/instagram.svg": "/Liyu-Desta/Portfolio/static/media/instagram.318e6df2752736d3c45c33aed816ef9f.svg",
+    "static/media/github.svg": "/Liyu-Desta/Portfolio/static/media/github.4bc72f28e79178cdc9c76db0b22c501e.svg",
+    "static/media/devdotto.svg": "/Liyu-Desta/Portfolio/static/media/devdotto.0ff9f0d7b8ce0b5aa62e2f733495d83b.svg",
+    "static/media/linkedin.svg": "/Liyu-Desta/Portfolio/static/media/linkedin.36bd4fb37078da2bbffc9b70a0acc872.svg",
+    "static/media/twitter.svg": "/Liyu-Desta/Portfolio/static/media/twitter.9fc479687bd8af1d4abc8a1fce7dc568.svg",
+    "index.html": "/Liyu-Desta/Portfolio/index.html",
+    "static/media/youtube.svg": "/Liyu-Desta/Portfolio/static/media/youtube.f5a3fbc126791c9789e222f96fca742f.svg",
+    "static/media/medium.svg": "/Liyu-Desta/Portfolio/static/media/medium.a73cd7178cc078152fd9eb34bd74f5ac.svg",
+    "static/media/envelope.svg": "/Liyu-Desta/Portfolio/static/media/envelope.33857507a5ba83c373a8c7d5f0d0c948.svg",
+    "main.0771ef1b.css.map": "/Liyu-Desta/Portfolio/static/css/main.0771ef1b.css.map",
+    "main.dbbe1966.js.map": "/Liyu-Desta/Portfolio/static/js/main.dbbe1966.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0771ef1b.css",
+    "static/js/main.dbbe1966.js"
+  ]
+}

@@ -3,11 +3,11 @@
   "version": "1.0.0",
   "description": "my-portfolio",
   "source": "index.html",
-  "homepage": "https://github.com/Liyu-Desta/Portfolio",
+  "homepage": "https://Liyu-Desta.github.io/Portfolio",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
-    "build-gh": "parcel build --public-url 'https://{Liyu-Desta}.github.io/{Portfolio}'",
+    "build-gh": "parcel build --public-url 'https://Liyu-Desta.github.io/Portfolio'",
     "predeploy": "npm run build-gh",
     "deploy": "gh-pages -d dist"
   },
